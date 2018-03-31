@@ -7,7 +7,7 @@ module.exports = function (grunt) {
 		combine: {
 			single: {
 				input: "./src/bitaddress-ui.html",
-				output: "./paper.dinerocoin.org.html",
+				output: "./paper.finitecoin.org.html",
 				tokens: [
 					{ token: "//array.map.js", file: "./src/array.map.js" },
 					{ token: "//biginteger.js", file: "./src/biginteger.js" },
@@ -55,7 +55,7 @@ module.exports = function (grunt) {
 					eol: 'lf'
 				},
 				files: {                // Files to process
-					'./paper.dinerocoin.org.html': ['./paper.dinerocoin.org.html']
+					'./paper.finitecoin.org.html': ['./paper.finitecoin.org.html']
 				}
 			}
 		}

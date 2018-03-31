@@ -1,8 +1,8 @@
 {
-  "name": "paper.dinerocoin.org",
-  "version": "3.1.0-dinero",
+  "name": "paper.finitecoin.org",
+  "version": "3.1.0-finite",
   "sha256sum": "61e217ab73a1d74d6de316e8d513fbff8ab0275e9bcf7bf7fc5ac47deab6c21e",
-  "description": "Open Source JavaScript Client-Side Dinero Wallet Generator",
+  "description": "Open Source JavaScript Client-Side Finite Wallet Generator",
   "main": "Gruntfile.js",
   "dependencies": {
     "grunt": "~0.4.1",
@@ -19,17 +19,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dinerocoin/paper.dinerocoin.org"
+    "url": "git://github.com/zy0n/paper.finitecoin.org"
   },
   "keywords": [
-    "dinero address wallet generator"
+    "finite address wallet generator"
   ],
-  "author": "dinero",
+  "author": "finite",
   "contributors": [{"name": "pointbiz"}],
   "license": "MIT",
   "readmeFilename": "README",
   "gitHead": "99519351e655ead836a3aa15a185a6ad17fd9107",
   "bugs": {
-    "url": "https://github.com/dinerocoin/paper.dinerocoin.org/issues"
+    "url": "https://github.com/zy0n/paper.finitecoin.org/issues"
   }
 }

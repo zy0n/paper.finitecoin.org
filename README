@@ -1,7 +1,7 @@
-paper.dinerocoin.org
-JavaScript Client-Side Dinero Wallet Generator
+paper.finitecoin.org
+JavaScript Client-Side Finite Wallet Generator
 
-Now Dinero addresses and their corresponding private key can be conveniently 
+Now Finite addresses and their corresponding private key can be conveniently 
 generated in a web browser.
 
 
@@ -36,10 +36,10 @@ END USER NOTES:
 
 Notice of Copyrights and Licenses:
 ---------------------------------------
-The paper.dinerocoin.org project, software and embedded resources are
-copyright The Dinero Developers.
+The paper.finitecoin.org project, software and embedded resources are
+copyright The Finite Developers.
 
-The paper.dinerocoin.org, Dinero name and logo are not part of the open source
+The paper.finitecoin.org, Finite name and logo are not part of the open source
 license.
 
 The bitaddress.org project, software and embedded resources are
